@@ -9,7 +9,7 @@ from datetime import datetime
 from pathlib import Path
 
 LOG_FILE = Path(__file__).parent / "study_log.json"
-TIME_FORMAT = "%Y-%m-%d %H:%M"
+TIME_FORMAT = "%Y-%m-%d %H:%M:%S"
 
 
 def load_sessions():

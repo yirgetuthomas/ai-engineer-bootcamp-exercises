@@ -2,3 +2,4 @@
 # A deploy host installs exactly what is listed here, and nothing else.
 openai
 python-dotenv
+tabulate
