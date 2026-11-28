@@ -21,7 +21,7 @@ python session-04/round_1/check.py
 
 ## My notes
 
-- The error type (the first word of the last line):
+- The error type (the first word of the last line):ValueError
 - The message (the rest of the last line):
 - The last line of the trace that is in my own file (file name and line number):
 - The assistant's diagnosis, in one sentence:
