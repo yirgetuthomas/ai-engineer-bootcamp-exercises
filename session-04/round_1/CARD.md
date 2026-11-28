@@ -22,8 +22,8 @@ python session-04/round_1/check.py
 ## My notes
 
 - The error type (the first word of the last line):ValueError
-- The message (the rest of the last line):
-- The last line of the trace that is in my own file (file name and line number):
+- The message (the rest of the last line):unconverted data remains
+- The last line of the trace that is in my own file (file name and line number):study_report.py, line 23
 - The assistant's diagnosis, in one sentence:
 - Which words in the error message does that diagnosis explain?
 - Did the assistant finish the job, or send me to check something?
